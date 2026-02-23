@@ -14,7 +14,7 @@ int main(){
         case'+':
         printf("Result = %d",num1+num2);
         break;
-        case'_':
+        case'-':
         printf("Result = %d",num1-num2);
         break;
         case'*':
@@ -30,4 +30,5 @@ int main(){
         printf("Invalid operator");
     }
 return 0;
+
 }
