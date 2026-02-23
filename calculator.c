@@ -24,7 +24,7 @@ int main(){
         if(num2 !=0)
         printf("Result = %d",num1*num2);
         else
-        printf("Division by zero are not allowed");
+        printf("Division by zero '0' are not allowed");
         break;
         default:
         printf("Invalid operator");
